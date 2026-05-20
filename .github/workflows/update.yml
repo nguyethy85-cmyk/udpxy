@@ -27,11 +27,11 @@ jobs:
 
       - name: Convert FPT
         run: |
-          sed -Ei 's#(rtp|udp)://([^ ]+)#http://pvn.ddns.info:30809/udp/\2#g' fptudp.m3u
-
+    sed -Ei 's#udp://@([^ ]+)#http://pvn.ddns.info:30809/udp/\1#g' fptudp.m3u
+    
       - name: Convert Viettel
         run: |
-          sed -Ei 's#http://[^/]*/rtp/(.*)#http://hfe09cde4v9.sn.mynetname.net:2024/rtp/\1#g' viettel.m3u
+          sed -Ei 's#rtp://@([^ ]+)#http://hfe09cde4v9.sn.mynetname.net:2024/rtp/\1#g' viettel.m3u
 
       - name: Merge all
         run: |
