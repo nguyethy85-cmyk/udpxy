@@ -1,2 +1,1 @@
 # udpxy
-FPT , VNPT , Viettel
