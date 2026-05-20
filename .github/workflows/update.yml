@@ -1,0 +1,62 @@
+name: IPTV Auto Update
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download playlists
+        run: |
+          curl -L "https://raw.githubusercontent.com/ntd249/ntdiptv/main/mytvrtp" -o mytvrtp.m3u
+          curl -L "https://raw.githubusercontent.com/ntd249/ntdiptv/main/fptudp" -o fptudp.m3u
+          curl -L "https://raw.githubusercontent.com/ntd249/ntdiptv/main/viettelrtp" -o viettel.m3u
+
+      - name: Convert VNPT
+        run: |
+          sed -Ei 's#http://[^/]*/rtp/([^?]+).*#http://iptv.hainghia.net:50000/rtp/\1?r2h-token=QSHgutx3qu8MGDHT#g' mytvrtp.m3u
+
+      - name: Convert FPT
+        run: |
+          sed -Ei 's#(rtp|udp)://([^ ]+)#http://pvn.ddns.info:30809/udp/\2#g' fptudp.m3u
+
+      - name: Convert Viettel
+        run: |
+          sed -Ei 's#http://[^/]*/rtp/(.*)#http://hfe09cde4v9.sn.mynetname.net:2024/rtp/\1#g' viettel.m3u
+
+      - name: Merge all
+        run: |
+          echo "#EXTM3U" > all.m3u
+
+          tail -n +2 mytvrtp.m3u >> all.m3u
+          tail -n +2 fptudp.m3u >> all.m3u
+          tail -n +2 viettel.m3u >> all.m3u
+
+      - name: Generate YAML
+        run: |
+          echo "streams:" > streams.yml
+
+          awk '
+          /^#EXTINF/ {
+              split($0,a,",")
+              name=a[2]
+              getline
+              url=$0
+              gsub(/"/, "", name)
+              printf("  \"%s\":\n    url: \"%s\"\n", name, url)
+          }' all.m3u >> streams.yml
+
+      - name: Push update
+        run: |
+          git config --global user.name "iptv-bot"
+          git config --global user.email "bot@users.noreply.github.com"
+
+          git add .
+          git commit -m "auto update" || exit 0
+          git push
