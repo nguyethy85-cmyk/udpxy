@@ -34,6 +34,11 @@ jobs:
       - name: Convert Viettel
         run: |
           sed -i 's#rtp://@\([^ ]*\)#http://hfe09cde4v9.sn.mynetname.net:2024/rtp/\1#g' viettel.m3u
+      - name: Add EPG
+        run: |
+          sed -i '1s#^#\#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"\n#' mytvrtp.m3u
+          sed -i '1s#^#\#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"\n#' fptudp.m3u
+          sed -i '1s#^#\#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"\n#' viettel.m3u
       - name: Merge all
         run: |
           echo '#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"' > all.m3u
@@ -45,11 +50,6 @@ jobs:
       - name: Generate YAML
         run: |
           echo "streams:" > streams.yml
-      - name: Add EPG
-        run: |
-          sed -i '1s#^#\#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"\n#' mytvrtp.m3u
-          sed -i '1s#^#\#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"\n#' fptudp.m3u
-          sed -i '1s#^#\#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"\n#' viettel.m3u
           
           awk '
           /^#EXTINF/ {
