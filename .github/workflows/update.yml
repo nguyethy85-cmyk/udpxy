@@ -29,7 +29,7 @@ jobs:
 
       - name: Convert FPT
         run: |
-          sed -i 's#udp://@\([^ ]*\)#http://hieupq.drayddns.com:9000/udp/\1#g' fptudp.m3u
+          sed -i 's#udp://@\([^ ]*\)#http://pvn.ddns.info:30809/udp/\1#g' fptudp.m3u
 
       - name: Convert Viettel
         run: |
