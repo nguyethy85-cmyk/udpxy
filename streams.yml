@@ -1290,296 +1290,296 @@ streams:
   "The Ocean Resort":
     url: "http://pvn.ddns.info:30809/udp/225.1.1.121:30120"
   "VTV1 HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.207:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.207:5000?r2h-token=QSHgutx3qu8MGDHT"
   "VTV2 HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.226:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.226:5000?r2h-token=QSHgutx3qu8MGDHT"
   "VTV3 HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.206:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.206:5000?r2h-token=QSHgutx3qu8MGDHT"
   "VTV4 HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.227:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.227:5000?r2h-token=QSHgutx3qu8MGDHT"
   "Vietnam Today HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.95:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.95:5000?r2h-token=QSHgutx3qu8MGDHT"
   "VTV5 HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.209:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.209:5000?r2h-token=QSHgutx3qu8MGDHT"
   "VTV5 Tây Nam Bộ HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.105:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.105:5000?r2h-token=QSHgutx3qu8MGDHT"
   "VTV5 Tây Nguyên HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.106:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.106:5000?r2h-token=QSHgutx3qu8MGDHT"
   "VTV7 HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.22:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.22:5000?r2h-token=QSHgutx3qu8MGDHT"
   "VTV8 HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.50:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.50:5000?r2h-token=QSHgutx3qu8MGDHT"
   "VTV10 HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.21:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.21:5000?r2h-token=QSHgutx3qu8MGDHT"
   "ANTV HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.104:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.104:5000?r2h-token=QSHgutx3qu8MGDHT"
   "QPVN HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.7:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.7:5000?r2h-token=QSHgutx3qu8MGDHT"
   "ANTV":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.24:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.24:5000?r2h-token=QSHgutx3qu8MGDHT"
   "ON Info TV HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.42:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.42:5000?r2h-token=QSHgutx3qu8MGDHT"
   "ON Life HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.40:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.40:5000?r2h-token=QSHgutx3qu8MGDHT"
   "ON Movies HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.39:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.39:5000?r2h-token=QSHgutx3qu8MGDHT"
   "ON Music HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.195:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.195:5000?r2h-token=QSHgutx3qu8MGDHT"
   "ON O2TV HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.91:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.91:5000?r2h-token=QSHgutx3qu8MGDHT"
   "ON Phim Việt HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.41:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.41:5000?r2h-token=QSHgutx3qu8MGDHT"
   "ON Trending TV HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.43:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.43:5000?r2h-token=QSHgutx3qu8MGDHT"
   "ON VFamily HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.49:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.49:5000?r2h-token=QSHgutx3qu8MGDHT"
   "ON Vie Dramas HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.38:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.38:5000?r2h-token=QSHgutx3qu8MGDHT"
   "HTV1 HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.11:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.11:5000?r2h-token=QSHgutx3qu8MGDHT"
   "HTV2 Vie Channel HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.75:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.75:5000?r2h-token=QSHgutx3qu8MGDHT"
   "HTV3 HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.13:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.13:5000?r2h-token=QSHgutx3qu8MGDHT"
   "HTV4 HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.18:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.18:5000?r2h-token=QSHgutx3qu8MGDHT"
   "HTV5 BChannel HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.61:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.61:5000?r2h-token=QSHgutx3qu8MGDHT"
   "HTV7 HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.13:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.13:5000?r2h-token=QSHgutx3qu8MGDHT"
   "HTV9 HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.9:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.9:5000?r2h-token=QSHgutx3qu8MGDHT"
   "HTV Thể Thao HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.23:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.23:5000?r2h-token=QSHgutx3qu8MGDHT"
   "HTVC Ca Nhạc HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.115:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.115:5000?r2h-token=QSHgutx3qu8MGDHT"
   "HTVC Du Lịch và Cuộc Sống HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.73:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.73:5000?r2h-token=QSHgutx3qu8MGDHT"
   "HTVC Gia Đình HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.72:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.72:5000?r2h-token=QSHgutx3qu8MGDHT"
   "HTVC Phụ Nữ HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.114:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.114:5000?r2h-token=QSHgutx3qu8MGDHT"
   "HTVC+ HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.113:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.113:5000?r2h-token=QSHgutx3qu8MGDHT"
   "HTV1":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.20:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.20:5000?r2h-token=QSHgutx3qu8MGDHT"
   "SCTV2 HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.34:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.34:5000?r2h-token=QSHgutx3qu8MGDHT"
   "SCTV6 HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.71:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.71:5000?r2h-token=QSHgutx3qu8MGDHT"
   "H1 HD | Hà Nội":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.223:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.223:5000?r2h-token=QSHgutx3qu8MGDHT"
   "H2 HD | Hà Nội":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.14:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.14:5000?r2h-token=QSHgutx3qu8MGDHT"
   "FM 90MHz | Hà Nội":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.77:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.77:5000?r2h-token=QSHgutx3qu8MGDHT"
   "FM 96MHz | Hà Nội":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.76:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.76:5000?r2h-token=QSHgutx3qu8MGDHT"
   "THP HD | Hải Phòng":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.66:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.66:5000?r2h-token=QSHgutx3qu8MGDHT"
   "THP3 HD | Hải Phòng":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.76:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.76:5000?r2h-token=QSHgutx3qu8MGDHT"
   "HUETV HD | Huế":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.5:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.5:5000?r2h-token=QSHgutx3qu8MGDHT"
   "ĐNRT1 HD | Đà Nẵng":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.93:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.93:5000?r2h-token=QSHgutx3qu8MGDHT"
   "ĐNRT2 HD | Đà Nẵng":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.111:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.111:5000?r2h-token=QSHgutx3qu8MGDHT"
   "ĐNNRTV1 HD | Đồng Nai":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.96:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.96:5000?r2h-token=QSHgutx3qu8MGDHT"
   "ĐNNRTV2 HD | Đồng Nai":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.75:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.75:5000?r2h-token=QSHgutx3qu8MGDHT"
   "Cần Thơ 1 HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.67:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.67:5000?r2h-token=QSHgutx3qu8MGDHT"
   "Cần Thơ 2 HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.121:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.121:5000?r2h-token=QSHgutx3qu8MGDHT"
   "Cần Thơ 3 HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.90:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.90:5000?r2h-token=QSHgutx3qu8MGDHT"
   "ĐTV HD | Điện Biên":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.119:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.119:5000?r2h-token=QSHgutx3qu8MGDHT"
   "LTV HD | Lai Châu":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.99:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.99:5000?r2h-token=QSHgutx3qu8MGDHT"
   "THLC HD | Lào Cai":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.109:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.109:5000?r2h-token=QSHgutx3qu8MGDHT"
   "STV HD | Sơn La":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.20:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.20:5000?r2h-token=QSHgutx3qu8MGDHT"
   "TTV HD | Tuyên Quang":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.45:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.45:5000?r2h-token=QSHgutx3qu8MGDHT"
   "CRTV HD | Cao Bằng":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.87:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.87:5000?r2h-token=QSHgutx3qu8MGDHT"
   "TN HD | Thái Nguyên":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.105:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.105:5000?r2h-token=QSHgutx3qu8MGDHT"
   "LSTV HD | Lạng Sơn":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.39:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.39:5000?r2h-token=QSHgutx3qu8MGDHT"
   "PTV HD | Phú Thọ":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.46:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.46:5000?r2h-token=QSHgutx3qu8MGDHT"
   "BTV HD | Bắc Ninh":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.12:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.12:5000?r2h-token=QSHgutx3qu8MGDHT"
   "QTV1 HD | Quảng Ninh":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.71:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.71:5000?r2h-token=QSHgutx3qu8MGDHT"
   "QTV3 HD | Quảng Ninh":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.66:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.66:5000?r2h-token=QSHgutx3qu8MGDHT"
   "HY HD | Hưng Yên":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.35:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.35:5000?r2h-token=QSHgutx3qu8MGDHT"
   "NBTV HD | Ninh Bình":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.102:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.102:5000?r2h-token=QSHgutx3qu8MGDHT"
   "TTV HD | Thanh Hóa":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.107:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.107:5000?r2h-token=QSHgutx3qu8MGDHT"
   "NTV HD | Nghệ An":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.94:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.94:5000?r2h-token=QSHgutx3qu8MGDHT"
   "BHTTV HD | Hà Tĩnh":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.88:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.88:5000?r2h-token=QSHgutx3qu8MGDHT"
   "QTTV HD | Quảng Trị":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.70:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.70:5000?r2h-token=QSHgutx3qu8MGDHT"
   "QNgTV1 HD | Quảng Ngãi":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.100:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.100:5000?r2h-token=QSHgutx3qu8MGDHT"
   "GTV HD | Gia Lai":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.35:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.35:5000?r2h-token=QSHgutx3qu8MGDHT"
   "DRT HD | Đắk Lắk":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.56:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.56:5000?r2h-token=QSHgutx3qu8MGDHT"
   "DRT HD | Đắk Lắk":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.84:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.84:5000?r2h-token=QSHgutx3qu8MGDHT"
   "KTV HD | Khánh Hòa":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.2:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.2:5000?r2h-token=QSHgutx3qu8MGDHT"
   "KTV1 HD | Khánh Hòa":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.45:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.45:5000?r2h-token=QSHgutx3qu8MGDHT"
   "LTV1 HD | Lâm Đồng":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.110:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.110:5000?r2h-token=QSHgutx3qu8MGDHT"
   "LTV2 HD | Lâm Đồng":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.122:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.122:5000?r2h-token=QSHgutx3qu8MGDHT"
   "TN HD | Tây Ninh":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.86:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.86:5000?r2h-token=QSHgutx3qu8MGDHT"
   "THĐT1 HD | Đồng Tháp":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.97:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.97:5000?r2h-token=QSHgutx3qu8MGDHT"
   "THĐT2 Miền Tây HD | Đồng Tháp":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.91:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.91:5000?r2h-token=QSHgutx3qu8MGDHT"
   "THVL1 HD | Vĩnh Long":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.99:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.99:5000?r2h-token=QSHgutx3qu8MGDHT"
   "THVL2 HD | Vĩnh Long":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.100:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.100:5000?r2h-token=QSHgutx3qu8MGDHT"
   "THVL3 HD | Vĩnh Long":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.29:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.29:5000?r2h-token=QSHgutx3qu8MGDHT"
   "THVL5 HD | Vĩnh Long":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.70:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.70:5000?r2h-token=QSHgutx3qu8MGDHT"
   "ATV1 HD | An Giang":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.68:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.68:5000?r2h-token=QSHgutx3qu8MGDHT"
   "ATV2 HD | An Giang":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.7:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.7:5000?r2h-token=QSHgutx3qu8MGDHT"
   "CTV HD | Cà Mau":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.19:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.19:5000?r2h-token=QSHgutx3qu8MGDHT"
   "THP3 HD | Hải Phòng":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.31:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.31:5000?r2h-token=QSHgutx3qu8MGDHT"
   "LTV1 HD | Lâm Đồng":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.118:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.118:5000?r2h-token=QSHgutx3qu8MGDHT"
   "TN HD | Tây Ninh":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.69:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.69:5000?r2h-token=QSHgutx3qu8MGDHT"
   "THLC _ TH Lào Cai":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.40:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.40:5000?r2h-token=QSHgutx3qu8MGDHT"
   "HBTV _ TH Hòa Bình":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.34:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.34:5000?r2h-token=QSHgutx3qu8MGDHT"
   "LTV _ TH Lai Châu":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.38:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.38:5000?r2h-token=QSHgutx3qu8MGDHT"
   "STV _ TH Sơn La":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.55:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.55:5000?r2h-token=QSHgutx3qu8MGDHT"
   "TN1 _ TH Thái Nguyên":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.58:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.58:5000?r2h-token=QSHgutx3qu8MGDHT"
   "QTV1 _ TH Quảng Ninh":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.51:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.51:5000?r2h-token=QSHgutx3qu8MGDHT"
   "QTV3 _ TH Quảng Ninh":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.52:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.52:5000?r2h-token=QSHgutx3qu8MGDHT"
   "NTV _ TH Ninh Bình":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.44:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.44:5000?r2h-token=QSHgutx3qu8MGDHT"
   "TTV _ TH Thanh Hóa":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.4:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.4:5000?r2h-token=QSHgutx3qu8MGDHT"
   "NTV _ TH Nghệ An":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.43:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.43:5000?r2h-token=QSHgutx3qu8MGDHT"
   "BHTTV _ TH Hà Tĩnh":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.30:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.30:5000?r2h-token=QSHgutx3qu8MGDHT"
   "DaNangTV1 _ TH TP. Đà Nẵng":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.27:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.27:5000?r2h-token=QSHgutx3qu8MGDHT"
   "QRT _ TH Quảng Nam":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.49:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.49:5000?r2h-token=QSHgutx3qu8MGDHT"
   "PTQ _ TH Quảng Ngãi":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.50:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.50:5000?r2h-token=QSHgutx3qu8MGDHT"
   "BTV _ TH Bình Định":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.14:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.14:5000?r2h-token=QSHgutx3qu8MGDHT"
   "PTP _ TH Phú Yên":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.47:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.47:5000?r2h-token=QSHgutx3qu8MGDHT"
   "LTV _ TH Lâm Đồng":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.3:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.3:5000?r2h-token=QSHgutx3qu8MGDHT"
   "TTV11 _ TH Tây Ninh":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.56:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.56:5000?r2h-token=QSHgutx3qu8MGDHT"
   "LA34 _ TH Long An":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.41:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.41:5000?r2h-token=QSHgutx3qu8MGDHT"
   "THTV _ TH Trà Vinh":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.60:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.60:5000?r2h-token=QSHgutx3qu8MGDHT"
   "HGTV _ TH Hậu Giang":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.33:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.33:5000?r2h-token=QSHgutx3qu8MGDHT"
   "KG _ TH Kiên Giang":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.36:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.36:5000?r2h-token=QSHgutx3qu8MGDHT"
   "STV1 _ TH Sóc Trăng":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.54:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.54:5000?r2h-token=QSHgutx3qu8MGDHT"
   "ABC Australia HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.78:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.78:5000?r2h-token=QSHgutx3qu8MGDHT"
   "Asian Food Network HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.164:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.164:5000?r2h-token=QSHgutx3qu8MGDHT"
   "CNA HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.81:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.81:5000?r2h-token=QSHgutx3qu8MGDHT"
   "Da Vinci HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.162:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.162:5000?r2h-token=QSHgutx3qu8MGDHT"
   "DW HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.80:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.80:5000?r2h-token=QSHgutx3qu8MGDHT"
   "History HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.178:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.178:5000?r2h-token=QSHgutx3qu8MGDHT"
   "KBS World HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.116:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.116:5000?r2h-token=QSHgutx3qu8MGDHT"
   "Arirang":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.18:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.18:5000?r2h-token=QSHgutx3qu8MGDHT"
   "Arirang":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.57:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.57:5000?r2h-token=QSHgutx3qu8MGDHT"
   "DW":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.16:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.16:5000?r2h-token=QSHgutx3qu8MGDHT"
   "France 24 (English)":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.232:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.232:5000?r2h-token=QSHgutx3qu8MGDHT"
   "NHK World Japan ":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.19:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.19:5000?r2h-token=QSHgutx3qu8MGDHT"
   "TV5 Monde Asie":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.17:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.17:5000?r2h-token=QSHgutx3qu8MGDHT"
   "TV5 Monde Asie":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.82:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.82:5000?r2h-token=QSHgutx3qu8MGDHT"
   "HiTV HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.11:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.11:5000?r2h-token=QSHgutx3qu8MGDHT"
   "HiTV HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.92:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.92:5000?r2h-token=QSHgutx3qu8MGDHT"
   "YouTV HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.94:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.94:5000?r2h-token=QSHgutx3qu8MGDHT"
   "MOSAIC":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.151:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.151:5000?r2h-token=QSHgutx3qu8MGDHT"
   "TV360+10":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.6:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.6:5000?r2h-token=QSHgutx3qu8MGDHT"
   "TV360+11":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.8:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.8:5000?r2h-token=QSHgutx3qu8MGDHT"
   "TV360 Social Stream":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.10:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.10:5000?r2h-token=QSHgutx3qu8MGDHT"
   "Hướng Dẫn Dịch Vụ Viettel":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.126:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.126:5000?r2h-token=QSHgutx3qu8MGDHT"
   "Hướng Dẫn Dịch Vụ Viettel":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.150:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.150:5000?r2h-token=QSHgutx3qu8MGDHT"
   "Hướng Dẫn Dịch Vụ Viettel":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.181:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.181:5000?r2h-token=QSHgutx3qu8MGDHT"
   "Hướng Dẫn Dịch Vụ Viettel":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.36:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.36:5000?r2h-token=QSHgutx3qu8MGDHT"
   "Hướng Dẫn Dịch Vụ Viettel":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.183:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.183:5000?r2h-token=QSHgutx3qu8MGDHT"
   "Hướng Dẫn Dịch Vụ Viettel":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.58:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.58:5000?r2h-token=QSHgutx3qu8MGDHT"
   "Hướng Dẫn Dịch Vụ Viettel":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.26:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.26:5000?r2h-token=QSHgutx3qu8MGDHT"
   "Hướng Dẫn Dịch Vụ Viettel":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.31:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.31:5000?r2h-token=QSHgutx3qu8MGDHT"
   "Hướng Dẫn Dịch Vụ Viettel":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.251.79:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.251.79:5000?r2h-token=QSHgutx3qu8MGDHT"
   "ON Home Shopping HD":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.79:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.79:5000?r2h-token=QSHgutx3qu8MGDHT"
   "ON Home Shopping":
-    url: "http://hfe09cde4v9.sn.mynetname.net:2024/rtp/239.12.252.12:5000"
+    url: "http://iptv.hainghia.net:50000/rtp/239.12.252.12:5000?r2h-token=QSHgutx3qu8MGDHT"
