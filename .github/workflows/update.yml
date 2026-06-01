@@ -20,7 +20,8 @@ jobs:
           curl -L "https://raw.githubusercontent.com/ntd249/ntdiptv/main/mytvrtp" -o mytvrtp.m3u
           curl -L "https://raw.githubusercontent.com/ntd249/ntdiptv/main/fptudp" -o fptudp.m3u
           curl -L "https://raw.githubusercontent.com/ntd249/ntdiptv/main/viettelrtp" -o viettel.m3u
-
+          curl -L "https://raw.githubusercontent.com/ntd249/ntdiptv/main/mytvrtp" -o hothanhdam_udpxy
+          
       
       
       - name: Convert VNPT
@@ -34,11 +35,17 @@ jobs:
       - name: Convert Viettel
         run: |
           sed -i 's#rtp://@\([^ ]*\)#http://iptv.hainghia.net:50000/rtp/\1?r2h-token=QSHgutx3qu8MGDHT#g' viettel.m3u
+      
+      - name: Convert VNPT
+        run: |
+          sed -i 's#rtp://@\([^ ]*\)#http://192.168.11.25:4022/udp/#g' hothanhdam_udpxy
+          
       - name: Add EPG
         run: |
           sed -i '1s#^#\#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"\n#' mytvrtp.m3u
           sed -i '1s#^#\#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"\n#' fptudp.m3u
           sed -i '1s#^#\#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"\n#' viettel.m3u
+          sed -i '1s#^#\#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"\n#' hothanhdam_udpxy
       - name: Merge all
         run: |
           echo '#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml.gz"' > all.m3u
